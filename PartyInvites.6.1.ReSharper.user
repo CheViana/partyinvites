@@ -1,0 +1,85 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Thanks.cshtml" caret="543" fromTop="23" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Controllers/f:HomeController.cs" caret="576" fromTop="15" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Models/f:GuestResponse.cs" caret="419" fromTop="14" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:RsvpForm.cshtml" caret="860" fromTop="29" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Models/f:GuestResponse.cs" caret="750" fromTop="12" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Index.cshtml" caret="282" fromTop="15" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:RsvpForm.cshtml" caret="840" fromTop="26" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:RsvpForm.cshtml" caret="836" fromTop="19" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Controllers/f:HomeController.cs" caret="138" fromTop="5" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Controllers/f:HomeController.cs" caret="579" fromTop="24" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Thanks.cshtml" caret="823" fromTop="18" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Models/f:GuestResponse.cs" caret="133" fromTop="4" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Models/f:GuestResponse.cs" caret="702" fromTop="20" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Controllers/f:HomeController.cs" caret="958" fromTop="19" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:RsvpForm.cshtml" caret="303" fromTop="14" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:RsvpForm.cshtml" caret="240" fromTop="26" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:RsvpForm.cshtml" caret="240" fromTop="5" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Thanks.cshtml" caret="673" fromTop="28" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Models/f:GuestResponse.cs" caret="419" fromTop="14" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Thanks.cshtml" caret="215" fromTop="16" />
+      <File id="3EC6936B-48E4-4B06-8494-8C67CE352E31/d:Views/d:Home/f:Thanks.cshtml" caret="432" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ViewResult`0" priority="2" />
+      <Item value="View`0" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="ViewBag" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="string" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="PartyInvites" priority="0" />
+      <Item value="Models" priority="0" />
+      <Item value="HttpPost" priority="0" />
+      <Item value="GuestResponse`0" priority="0" />
+      <Item value="guestResponse" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="ComponentModel" priority="0" />
+      <Item value="DataAnnotations" priority="0" />
+      <Item value="Required" priority="0" />
+      <Item value="ErrorMessage" priority="1" />
+      <Item value="RegularExpressionAttribute`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="ModelState`0" priority="0" />
+      <Item value="ModelState" priority="0" />
+      <Item value="else" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Hour" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="IsValid" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

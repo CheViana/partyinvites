@@ -1,0 +1,13 @@
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\PartyInvites.dll
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\EntityFramework.dll
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\EntityFramework.xml
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\obj\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\Moq.dll
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\Ninject.dll
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\Moq.pdb
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\Moq.xml
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\Ninject.pdb
+D:\visual studio 2010\Projects\PartyInvites\PartyInvites\bin\Ninject.xml
